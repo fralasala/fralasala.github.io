@@ -1,0 +1,26 @@
+div {
+    display: flex;
+    flex-direction: column;
+}
+a{
+    width: 100%;
+}
+#imagediv{
+    background-image: url(/images/pexels-andrea-piacquadio-3764013.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#imagediv-btn{
+    background-color: gold;
+    color: black;
+    border-radius: 5px;
+    padding: 23px;
+    border: none;
+    font-size: 23px;
+
+}
